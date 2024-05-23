@@ -5,4 +5,5 @@
 return {
   'bufferline',
   'lualine',
+  'vim-fugitive',
 }
