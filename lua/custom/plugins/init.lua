@@ -6,4 +6,6 @@ return {
   'bufferline',
   'lualine',
   'vim-fugitive',
+  'nvim-treesitter-context',
+  'compiler',
 }
