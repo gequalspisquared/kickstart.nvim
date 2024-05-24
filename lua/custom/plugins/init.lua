@@ -8,4 +8,5 @@ return {
   'vim-fugitive',
   'nvim-treesitter-context',
   'compiler',
+  'vim-tmux-navigator',
 }
